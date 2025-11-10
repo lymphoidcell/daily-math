@@ -24,6 +24,7 @@ This repository serves as a shared learning space where participants engage with
 | Babas | [@bashirhanafi](https://github.com/bashirhanafi) | [Ola!](https://www.linkedin.com/in/bashirhanafi/) | Soon - Member | [View](https://github.com/lymphoidcell/daily-math/blob/main/Solutions/Babas/solution-list.md) |
 | Jessica | N/A. _I will be the one uploading her solution_ | TBA | Soon - Member | [View](https://github.com/lymphoidcell/daily-math/blob/main/Solutions/Jessica/solution-list.md) |
 | Marcel | TBA | TBA | Soon - Member | [View](https://github.com/lymphoidcell/daily-math/blob/main/Solutions/Marcel/solution-list.md) |
+| Wildan | TBA | TBA | Active - Member | [View](https://github.com/lymphoidcell/daily-math/blob/main/Solutions/Wildan/solution-list.md) |
 | TBA | TBA | TBA | TBA | TBA |
 
 
