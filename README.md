@@ -44,6 +44,15 @@ This category delves into higher-level mathematical topics that provide deeper t
 
 ### And more...
 
+## Participants
+
+| Name | GitHub Username | Focus Area | Joined Date |
+|------|-----------------|------------|-------------|
+| Phanie | @lymphoidcell | TBA | TBA |
+| Aisyah | @aisyahkhns | TBA | TBA |
+| TBA | TBA | TBA | TBA |
+| TBA | TBA | TBA | TBA |
+
 ## Daily Progress
 
 | Date | Topic | Category | Problem / Source | Who Solved | Notes / Insights |
