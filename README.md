@@ -153,3 +153,9 @@ This project is open source and available under the MIT License. Contributions a
 
 For questions, suggestions, or collaboration inquiries, please open an issue in this repository or contact the project maintainers.
 
+---
+
+<div align="center">
+  <sub>We are open to collaborations and interesting projects!</sub>
+</div>
+
