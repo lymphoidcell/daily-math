@@ -1,7 +1,7 @@
 # DAILY MATH
 > **Note:**    Feedbacks are SUPER WELCOME!!! ⸜(｡˃ ᵕ ˂)⸝♡
 
-# [Notion Page](https://www.notion.so/Daily-Math-Collaboration-Project-2a76760c9553809faef8f8c4aa41a2c5?source=copy_link)
+## [Notion Page](https://www.notion.so/Daily-Math-Collaboration-Project-2a76760c9553809faef8f8c4aa41a2c5?source=copy_link)
 
 ## Introduction
 
