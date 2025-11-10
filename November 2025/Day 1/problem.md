@@ -32,8 +32,6 @@ By definition of equality of vectors, corresponding entries must be equal. Thus,
 x - y = 4, x + y = 2, z - 1 = 3
 ```
 
-Solving the above system of equation yields x = 3, y = -1, z = 4.
-
 ### Source and Attribution
 - **Primary Source**: Schaum's Outline of Linear Algebra, Fourth Edition (Schaum's Outline Series) by Seymour Lipschutz, Marc Lipson
 - **Related Materials**: Linear Algebra Done Right by Sheldon Axler
