@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to **Daily Math**, a collaborative project dedicated to solving one mathematical problem each day. The primary objective is to build a robust and comprehensive understanding of mathematical concepts that underpin Machine Learning, Deep Learning, Artificial Intelligence, and Advanced Mathematics.
+Welcome to **Daily Math**, a collaborative project dedicated to solving one mathematical problem each day. The primary objective is to build a robust and comprehensive understanding of mathematical concepts that underpin Machine Learning, Deep Learning, Artificial Intelligence, and more.
 
 This repository serves as a shared learning space where participants engage with challenging problems, document their solutions, and exchange insights. By maintaining consistent daily practice, we aim to strengthen our mathematical foundations and develop the analytical skills essential for cutting-edge research and application in AI and related fields.
 
