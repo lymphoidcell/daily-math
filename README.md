@@ -1,6 +1,8 @@
 # DAILY MATH
 > **Note:**    Feedbacks are SUPER WELCOME!!! ⸜(｡˃ ᵕ ˂)⸝♡
 
+# [Notion Page](https://www.notion.so/Daily-Math-Collaboration-Project-2a76760c9553809faef8f8c4aa41a2c5?source=copy_link)
+
 ## Introduction
 
 Welcome to **Daily Math**, a collaborative project dedicated to solving one mathematical problem each day. The primary objective is to build a robust and comprehensive understanding of mathematical concepts that underpin Machine Learning, Deep Learning, Artificial Intelligence, and more.
