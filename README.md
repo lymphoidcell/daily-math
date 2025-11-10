@@ -30,9 +30,9 @@ This repository serves as a shared learning space where participants engage with
 
 ## Daily Progress
 
-| Date | Topic | Category | Problem / Source | Who Solved | Notes / Insights |
+| Day | Topic | Category | Problem / Source | Who Solved | Notes / Insights |
 |------|-------|----------|------------------|------------|------------------|
-| TBA | TBA | TBA | TBA | TBA | TBA |
+| #1 | Vector Equality in ℝⁿ | Linear Algebra (Machine Learning Math) | Schaum's Outline of Linear Algebra, Fourth Edition | TBA | TBA |
 
 ## Categories
 
