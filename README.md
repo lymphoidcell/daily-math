@@ -13,6 +13,7 @@ This repository serves as a shared learning space where participants engage with
 |------|-----------------|------------|-------------|----------------|
 | Phanie | [@lymphoidcell](https://github.com/lymphoidcell) | Deep Learning | 10 November 2025 | [View](https://github.com/lymphoidcell/daily-math/tree/main/Solutions/Phanie)
 | Aisyah | [@aisyahkhns](https://github.com/aisyahkhns) | TBA | TBA | TBA |
+| Aurelia | TBA | Mathematics | 10 November 2025 | TBA |
 | TBA | TBA | TBA | TBA | TBA |
 | TBA | TBA | TBA | TBA | TBA |
 
