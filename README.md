@@ -112,7 +112,16 @@ Solutions can be added as:
 
 ### Problem Sources
 
-1. Linear Algebra
+- Matrix Theory   
+
+| Resource                                 | Topics Covered                                                          | File Format     | Solutions/Answers     | License                    | Source Link |
+|-------------------------------------------|--------------------------------------------------------------------------|-----------------|----------------------|----------------------------|-------------|
+| Fundamentals of Matrix Algebra (Hartman)  | Matrix arithmetic, inverses, determinants, eigenvalues/vectors, systems  | PDF, online     | End-of-section        | CC BY-NC, free adaptation  | [LibreTexts](https://math.libretexts.org/Bookshelves/Linear_Algebra/Fundamentals_of_Matrix_Algebra_(Hartman)) |
+| Matrix Algebra for Engineers (HKUST)      | Matrix operations, projections, applications in engineering/statistics    | PDF             | Problems with answers | Free download, attribution | [HKUST Math](https://www.math.hkust.edu.hk/~machas/matrix-algebra-for-engineers.pdf) |
+| Random Matrices: Theory & Practice        | Random matrix theory, research/AI/stats focus                            | PDF (arXiv)     | Examples, theory      | arXiv (CC BY/NC)           | [arXiv preprint](https://arxiv.org/abs/1712.07903) |
+| OpenStax College Algebra 2e – Ch 7.5      | Intro matrix operations, inverse, applications (college algebra level)    | Online, PDF     | Practice problems     | CC BY                      | [OpenStax](https://openstax.org/books/college-algebra-2e/pages/7-5-matrices-and-matrix-operations) |
+
+- Linear Algebra    
 
 | Resource                  | Topics Covered                 | File Format     | Solutions/Answers      | License                           | Source Link |
 |---------------------------|-------------------------------|-----------------|-----------------------|------------------------------------|-------------|
