@@ -12,7 +12,7 @@ This repository serves as a shared learning space where participants engage with
 | Name | GitHub Username | LinkedIn | Joined Date | Solution Link |
 |------|-----------------|------------|-------------|----------------|
 | Phanie | [@lymphoidcell](https://github.com/lymphoidcell) | [Ola!](https://www.linkedin.com/in/thscho/) | 10 November 2025 | [View](https://github.com/lymphoidcell/daily-math/tree/main/Solutions/Phanie)
-| My Mom | N/A. _I will be the one uploading her solution_ | N/A | 10 November 2025 | [View](https://github.com/lymphoidcell/daily-math/blob/main/Solutions/Phanie's%20Mom/solution-list.md) |
+| My Mom | N/A. _I will be the one uploading my mom solution_ | N/A | 10 November 2025 | [View](https://github.com/lymphoidcell/daily-math/blob/main/Solutions/Phanie's%20Mom/solution-list.md) |
 | Aisyah | [@aisyahkhns](https://github.com/aisyahkhns) | [Ola!](https://www.linkedin.com/in/aisyakhns/) | 10 November 2025 | [View](https://github.com/lymphoidcell/daily-math/blob/main/Solutions/Aisyah/solution-list.md) |
 | Aurelia | TBA | TBA | 10 November 2025 | [View](https://github.com/lymphoidcell/daily-math/blob/main/Solutions/Aurelia/solution-list.md) |
 | Astrid | TBA | TBA | TBA | [View](https://github.com/lymphoidcell/daily-math/blob/main/Solutions/Astrid/solution-list.md) |
