@@ -48,8 +48,8 @@ This category delves into higher-level mathematical topics that provide deeper t
 
 | Name | GitHub Username | Focus Area | Joined Date |
 |------|-----------------|------------|-------------|
-| Phanie | @lymphoidcell | TBA | TBA |
-| Aisyah | @aisyahkhns | TBA | TBA |
+| Phanie | [@lymphoidcell](https://github.com/lymphoidcell) | TBA | TBA |
+| Aisyah | [@aisyahkhns](https://github.com/aisyahkhns) | TBA | TBA |
 | TBA | TBA | TBA | TBA |
 | TBA | TBA | TBA | TBA |
 
