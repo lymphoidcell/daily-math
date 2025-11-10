@@ -7,6 +7,21 @@ Welcome to **Daily Math**, a collaborative project dedicated to solving one math
 
 This repository serves as a shared learning space where participants engage with challenging problems, document their solutions, and exchange insights. By maintaining consistent daily practice, we aim to strengthen our mathematical foundations and develop the analytical skills essential for cutting-edge research and application in AI and related fields.
 
+## Participants
+
+| Name | GitHub Username | Focus Area | Joined Date | Solution Link |
+|------|-----------------|------------|-------------|----------------|
+| Phanie | [@lymphoidcell](https://github.com/lymphoidcell) | Deep Learning | 10 November 2025 | [View](https://github.com/lymphoidcell/daily-math/tree/main/Solutions/Phanie)
+| Aisyah | [@aisyahkhns](https://github.com/aisyahkhns) | TBA | TBA | TBA |
+| TBA | TBA | TBA | TBA | TBA |
+| TBA | TBA | TBA | TBA | TBA |
+
+## Daily Progress
+
+| Date | Topic | Category | Problem / Source | Who Solved | Notes / Insights |
+|------|-------|----------|------------------|------------|------------------|
+| TBA | TBA | TBA | TBA | TBA | TBA |
+
 ## Categories
 
 ### Machine Learning Math
@@ -44,21 +59,6 @@ This category delves into higher-level mathematical topics that provide deeper t
 - **Advanced Linear Algebra**: Tensor products, Jordan canonical form, spectral theorem, operator theory
 
 ### And more...
-
-## Participants
-
-| Name | GitHub Username | Focus Area | Joined Date | Solution Link |
-|------|-----------------|------------|-------------|----------------|
-| Phanie | [@lymphoidcell](https://github.com/lymphoidcell) | Deep Learning | 10 November 2025 | [View](https://github.com/lymphoidcell/daily-math/tree/main/Solutions/Phanie)
-| Aisyah | [@aisyahkhns](https://github.com/aisyahkhns) | TBA | TBA | TBA |
-| TBA | TBA | TBA | TBA | TBA |
-| TBA | TBA | TBA | TBA | TBA |
-
-## Daily Progress
-
-| Date | Topic | Category | Problem / Source | Who Solved | Notes / Insights |
-|------|-------|----------|------------------|------------|------------------|
-| TBA | TBA | TBA | TBA | TBA | TBA |
 
 ## Goals
 
