@@ -11,7 +11,7 @@ This repository serves as a shared learning space where participants engage with
 
 | Name | GitHub Username | Focus Area | Joined Date | Solution Link |
 |------|-----------------|------------|-------------|----------------|
-| Phanie | [@lymphoidcell](https://github.com/lymphoidcell) | Deep Learning | 10 November 2025 | [View](https://github.com/lymphoidcell/daily-math/tree/main/Solutions/Phanie)
+| Phanie | [@lymphoidcell](https://github.com/lymphoidcell) | ML | 10 November 2025 | [View](https://github.com/lymphoidcell/daily-math/tree/main/Solutions/Phanie)
 | My Mom | N/A. _I will be the one uploading her solution_ | Mathematics | 10 November 2025 | [View](https://github.com/lymphoidcell/daily-math/blob/main/Solutions/Phanie's%20Mom/solution-list.md) |
 | Aisyah | [@aisyahkhns](https://github.com/aisyahkhns) | TBA | TBA | [View](https://github.com/lymphoidcell/daily-math/blob/main/Solutions/Aisyah/solution-list.md) |
 | Aurelia | TBA | Mathematics | 10 November 2025 | [View](https://github.com/lymphoidcell/daily-math/blob/main/Solutions/Aurelia/solution-list.md) |
