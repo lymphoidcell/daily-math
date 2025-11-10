@@ -15,7 +15,8 @@ This repository serves as a shared learning space where participants engage with
 | My Mom | N/A. _I will be the one uploading her solution_ | Mathematics | 10 November 2025 | TBA |
 | Aisyah | [@aisyahkhns](https://github.com/aisyahkhns) | TBA | TBA | TBA |
 | Aurelia | TBA | Mathematics | 10 November 2025 | TBA |
-| TBA | TBA | TBA | TBA | TBA |
+| Astrid | TBA | Mathematics | TBA | TBA |
+| Marcel | TBA | Mathematics | TBA | TBA |
 | TBA | TBA | TBA | TBA | TBA |
 
 ## Daily Progress
