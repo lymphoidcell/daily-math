@@ -1,4 +1,5 @@
 # DAILY MATH
+> **Note:**    Feedbacks are SUPER WELCOME!!! ⸜(｡˃ ᵕ ˂)⸝♡
 
 ## Introduction
 
