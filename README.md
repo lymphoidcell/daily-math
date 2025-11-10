@@ -126,6 +126,3 @@ This project is open source and available under the MIT License. Contributions a
 
 For questions, suggestions, or collaboration inquiries, please open an issue in this repository or contact the project maintainers.
 
----
-
-**Remember**: The goal is not just to solve problems, but to understand deeply, think critically, and grow together as a mathematical community.
