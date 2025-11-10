@@ -119,9 +119,13 @@ Solutions can be added as:
 
 ### Textbooks
 
-- TBA
+- [Linear Algebra Done Wrong by Sergei Treil](https://www.math.brown.edu/streil/papers/LADW/LADW.html)   
+- [Matrices and Linear Transformations (21-241) Spring 2023 Lecture Notes by Elisa Bellah](https://www.math.toronto.edu/ebellah/CMU/21241Spring23/LectureNotes.pdf)
 
-### Online Resources (if any)
+### Online Resources (if any)  
+
+Online PDF
+- https://www.math.cmu.edu/~mradclif/teaching/241F18/finalreview.pdf
 
 GitHub repos from other users:
 
