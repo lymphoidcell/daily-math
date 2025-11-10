@@ -7,7 +7,7 @@ Welcome to **Daily Math**, a collaborative project dedicated to solving one math
 
 This repository serves as a shared learning space where participants engage with challenging problems, document their solutions, and exchange insights. By maintaining consistent daily practice, we aim to strengthen our mathematical foundations and develop the analytical skills essential for cutting-edge research and application in AI and related fields.
 
-## Participants
+## The Amazing People  
 
 | Name | GitHub Username | LinkedIn | Joined Date | Solution Link |
 |------|-----------------|------------|-------------|----------------|
