@@ -47,7 +47,7 @@ This category delves into higher-level mathematical topics that provide deeper t
 
 ## Participants
 
-| Name | GitHub Username | Focus Area | Joined Date | Solution Links |
+| Name | GitHub Username | Focus Area | Joined Date | Solution Link |
 |------|-----------------|------------|-------------|----------------|
 | Phanie | [@lymphoidcell](https://github.com/lymphoidcell) | Deep Learning | 10 November 2025 | [View](https://github.com/lymphoidcell/daily-math/tree/main/Solutions/Phanie)
 | Aisyah | [@aisyahkhns](https://github.com/aisyahkhns) | TBA | TBA | TBA |
