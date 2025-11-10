@@ -1,4 +1,4 @@
-> ## Entry Roadmap
+> ## A. Entry Roadmap
 
 > These are the foundational mathematical topics we will focus on first. Mastering these areas provides the essential toolkit for understanding Machine Learning, Deep Learning, and AI algorithms.
 
