@@ -124,7 +124,11 @@ Solutions can be added as:
 
 ### Online Resources (if any)
 
-- TBA
+GitHub repos from other users:
+
+- https://github.com/shreeprasadbhat/matrix-theory
+- https://github.com/RePlasma/IntroRandomMatrixLivan
+- https://github.com/leogaudin/matrix
 
 ### Problem Sources
 
