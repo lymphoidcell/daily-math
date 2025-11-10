@@ -1,1 +1,90 @@
+## [📁 Notion Page Link](https://www.notion.so/Daily-Math-Problem-DAY-1-2a76760c955380c69e50c30eb2691973?source=copy_link)
 
+---
+
+# Daily Math Problem - DAY 1
+
+### Problem Metadata
+- **Date**: 2025-11-11
+- **Problem Number**: #1
+- **Topic**: Vector Equality in ℝⁿ
+- **Category**: Machine Learning Math / Linear Algebra
+- **Difficulty Level**: Beginner
+- **Problem Curator**: Phanie
+
+### Problem Statement
+
+**(a)** Identify the dimensions of the following vectors:
+- (2, −5)
+- (7, 9)
+- (0, 0, 0)
+- (3, 4, 5)
+
+The first two vectors belong to R², whereas the last two belong to R³.  
+
+The third is the zero vector in R³.
+
+**(b)** Find x, y, z such that (x − y, x + y, z − 1) = (4, 2, 3)  
+
+By definition of equality of vectors, corresponding entries must be equal. Thus,
+
+```
+x - y = 4, x + y = 2, z - 1 = 3
+```
+
+Solving the above system of equation yields x = 3, y = -1, z = 4.
+
+### Source and Attribution
+- **Primary Source**: Schaum's Outline of Linear Algebra, Fourth Edition (Schaum's Outline Series) by Seymour Lipschutz, Marc Lipson
+- **Related Materials**: Linear Algebra Done Right by Sheldon Axler
+
+### Motivation and Context
+
+**Why This Matters:**
+Vectors in ℝⁿ formalize "ordered lists of numbers." Equality is entrywise; operations are addition and scalar multiplication. This problem checks recognition of vector dimension and uses equality to turn one vector equation into a small linear system.
+
+**Relevance to ML/DL/AI:**
+- Data samples/features are vectors in ℝⁿ
+- Zero vector, dimensionality, and componentwise equality underpin batching, broadcasting, and shape checks in NumPy/PyTorch
+- Solving for (x, y, z) from a vector equation uses the same algebra as parameter fitting with linear constraints
+
+**Theoretical Significance:**
+- Definitions: ℝⁿ, zero vector, vector equality
+- Operations: vector addition, scalar multiplication (parallelogram rule)
+- Translating a vector identity to a system of linear equations
+
+**Key Terms:**
+- *Entrywise*: operations or comparisons performed on corresponding entries (elements) of vectors or matrices, one entry at a time
+- *Componentwise*: also called entrywise or element-wise
+
+### Hints and Guidance
+
+**Consider:**
+- **Equality of vectors**: (a₁, ..., aₙ) = (b₁, ..., bₙ) ⇔ aᵢ = bᵢ for all i
+- **Dimensionality**: a 2-tuple is in ℝ²; a 3-tuple is in ℝ³; (0, …, 0) is the zero vector
+- **Approach**: From (x − y, x + y, z − 1) = (4, 2, 3), write the three scalar equations and solve the 2×2 system for x, y, then get z
+
+### Discussion Space
+
+**Questions:**
+- Any confusion about why vectors with the same multiset of numbers (e.g., (1, 2, 3) vs (2, 3, 1)) are not equal?
+- Do you see how dimension mismatches (e.g., comparing a pair to a triple) invalidate equality?
+
+**Initial Observations:**
+- From equality: x − y = 4, x + y = 2 ⇒ x = 3, y = −1
+- From the third component: z − 1 = 3 ⇒ z = 4
+- The first two listed vectors are in ℝ²; the latter two are in ℝ³; (0, 0, 0) is the zero vector
+
+### Status Tracking
+- **In Progress**: TBA
+
+### Solutions Available
+| Participant | Solution Link | Date Submitted | Notes |
+|-------------|---------------|----------------|-------|
+| [Name] | [Link to solution doc] | [YYYY-MM-DD] | [Optional: approach used] |
+
+### External Resources
+| Source | Link | Type | Notes |
+|--------|------|------|-------|
+| [e.g., Stack Exchange] | [URL] | Discussion / Solution / Explanation | Brief description |
+| [e.g., YouTube] | [URL] | Video / Tutorial | Brief description |
