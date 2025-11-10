@@ -63,7 +63,9 @@ This category delves into higher-level mathematical topics that provide deeper t
 
 ### And more...
 
-## Goals
+## Goals  
+
+Reference: [How to Actually Get Better at Math](https://youtu.be/YJZCadaXjrU?si=ZFZPHwnwYURNoGA9)
 
 1. **Consistent Practice**: Commit to solving at least one mathematical problem daily to maintain continuous learning momentum
 2. **Deep Understanding**: Move beyond superficial knowledge to develop intuitive and rigorous understanding of core concepts
@@ -71,6 +73,8 @@ This category delves into higher-level mathematical topics that provide deeper t
 4. **Documentation**: Maintain detailed records of problems solved, methods used, and key takeaways for future reference
 5. **Application-Oriented**: Connect theoretical concepts to practical applications in ML, DL, and AI research and development
 6. **Progressive Difficulty**: Gradually increase problem complexity to continuously challenge our mathematical abilities
+
+In other words, LET'S AVOID GETTING BRAIN ROT!!!  
 
 ## How to Contribute
 
