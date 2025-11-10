@@ -13,12 +13,14 @@ This repository serves as a shared learning space where participants engage with
 |------|-----------------|------------|-------------|----------------|
 | Phanie | [@lymphoidcell](https://github.com/lymphoidcell) | [Ola!](https://www.linkedin.com/in/thscho/) | 10 November 2025 | [View](https://github.com/lymphoidcell/daily-math/tree/main/Solutions/Phanie)
 | My Mom | N/A. _I will be the one uploading her solution_ | N/A | 10 November 2025 | [View](https://github.com/lymphoidcell/daily-math/blob/main/Solutions/Phanie's%20Mom/solution-list.md) |
-| Aisyah | [@aisyahkhns](https://github.com/aisyahkhns) | [Ola!](https://www.linkedin.com/in/aisyakhns/) | TBA | [View](https://github.com/lymphoidcell/daily-math/blob/main/Solutions/Aisyah/solution-list.md) |
+| Aisyah | [@aisyahkhns](https://github.com/aisyahkhns) | [Ola!](https://www.linkedin.com/in/aisyakhns/) | 10 November 2025 | [View](https://github.com/lymphoidcell/daily-math/blob/main/Solutions/Aisyah/solution-list.md) |
 | Aurelia | TBA | TBA | 10 November 2025 | [View](https://github.com/lymphoidcell/daily-math/blob/main/Solutions/Aurelia/solution-list.md) |
 | Astrid | TBA | TBA | TBA | [View](https://github.com/lymphoidcell/daily-math/blob/main/Solutions/Astrid/solution-list.md) |
+| Babas | [@bashirhanafi](https://github.com/bashirhanafi) | [Ola!](https://www.linkedin.com/in/bashirhanafi/) | 10 November 2025 | [View](https://github.com/lymphoidcell/daily-math/blob/main/Solutions/Babas/solution-list.md) |
 | Jessica | N/A. _I will be the one uploading her solution_ | TBA | 10 November 2025 | [View](https://github.com/lymphoidcell/daily-math/blob/main/Solutions/Jessica/solution-list.md) |
 | Marcel | TBA | TBA | TBA | [View](https://github.com/lymphoidcell/daily-math/blob/main/Solutions/Marcel/solution-list.md) |
 | TBA | TBA | TBA | TBA | TBA |
+
 
 ## Daily Progress
 
