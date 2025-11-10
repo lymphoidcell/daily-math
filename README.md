@@ -156,7 +156,7 @@ This project is open source and available under the MIT License. Contributions a
 
 ## Contact
 
-For questions, suggestions, or collaboration inquiries, please open an issue in this repository or contact the project maintainers.
+For questions, suggestions, or collaboration inquiries, please open an issue in this repository or contact the project maintainer (📧 phaniesql[at]gmail.com).
 
 ---
 
