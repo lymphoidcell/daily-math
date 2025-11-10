@@ -48,7 +48,7 @@ This category delves into higher-level mathematical topics that provide deeper t
 
 | Name | GitHub Username | Focus Area | Joined Date |
 |------|-----------------|------------|-------------|
-| Phanie | [@lymphoidcell](https://github.com/lymphoidcell) | TBA | TBA |
+| Phanie | [@lymphoidcell](https://github.com/lymphoidcell) | Deep Learning | 10 November 2025 |
 | Aisyah | [@aisyahkhns](https://github.com/aisyahkhns) | TBA | TBA |
 | TBA | TBA | TBA | TBA |
 | TBA | TBA | TBA | TBA |
