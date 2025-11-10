@@ -7,6 +7,9 @@ Welcome to **Daily Math**, a collaborative project dedicated to solving one math
 
 This repository serves as a shared learning space where participants engage with challenging problems, document their solutions, and exchange insights. By maintaining consistent daily practice, we aim to strengthen our mathematical foundations and develop the analytical skills essential for cutting-edge research and application in AI and related fields.
 
+## Project Timeline
+[Gantt Chart | Calendar](https://www.notion.so/79be1090f54240a9a4490aee16eeb38d?v=ea78a997cedd402c955309beacc1c2e2&source=copy_link)
+
 ## The Amazing People  
 
 | Name | GitHub Username | LinkedIn | Joined Date | Solution Link |
