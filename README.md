@@ -19,7 +19,7 @@ This repository serves as a shared learning space where participants engage with
 | Aisyah | [@aisyahkhns](https://github.com/aisyahkhns) | [Ola!](https://www.linkedin.com/in/aisyakhns/) | Active - Member | [View](https://github.com/lymphoidcell/daily-math/blob/main/Solutions/Aisyah/solution-list.md) |
 | Aurelia | TBA | TBA | Active - Member | [View](https://github.com/lymphoidcell/daily-math/blob/main/Solutions/Aurelia/solution-list.md) |
 | Astrid | TBA | TBA | Active - Member | [View](https://github.com/lymphoidcell/daily-math/blob/main/Solutions/Astrid/solution-list.md) |
-| Babas | [@bashirhanafi](https://github.com/bashirhanafi) | [Ola!](https://www.linkedin.com/in/bashirhanafi/) | _missing in action_ - Member | [View](https://github.com/lymphoidcell/daily-math/blob/main/Solutions/Babas/solution-list.md) |
+| Babas | [@bashirhanafi](https://github.com/bashirhanafi) | [Ola!](https://www.linkedin.com/in/bashirhanafi/) | Soon - Member | [View](https://github.com/lymphoidcell/daily-math/blob/main/Solutions/Babas/solution-list.md) |
 | Jessica | N/A. _I will be the one uploading her solution_ | Soon - Member | Soon - Member | [View](https://github.com/lymphoidcell/daily-math/blob/main/Solutions/Jessica/solution-list.md) |
 | Marcel | TBA | TBA | Soon - Member | [View](https://github.com/lymphoidcell/daily-math/blob/main/Solutions/Marcel/solution-list.md) |
 | TBA | TBA | TBA | TBA | TBA |
