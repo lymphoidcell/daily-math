@@ -30,9 +30,9 @@ This repository serves as a shared learning space where participants engage with
 
 ## Daily Progress
 
-| Day | Topic | Category | Problem / Source | Who Solved | Notes / Insights |
+| Day | Topic | Category | Problem | Who Solved | Notes / Insights |
 |------|-------|----------|------------------|------------|------------------|
-| #1 | [Vector Equality in ℝⁿ](https://github.com/lymphoidcell/daily-math/blob/main/November%202025/Day%201/problem.md) | Linear Algebra (Machine Learning Math) | Schaum's Outline of Linear Algebra, Fourth Edition | TBA | TBA |
+| #1 | Vector Equality in ℝⁿ | Linear Algebra (Machine Learning Math) | [Daily Math - DAY 1](https://github.com/lymphoidcell/daily-math/blob/main/November%202025/Day%201/problem.md) | TBA | TBA |
 
 ## Categories
 
