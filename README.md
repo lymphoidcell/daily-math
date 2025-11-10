@@ -120,7 +120,7 @@ Solutions can be added as:
 | Hefferon’s Linear Algebra | All undergraduate topics       | PDF, HTML       | Full solutions        | CC BY-SA                          | [Hefferon’s Linear Algebra](https://hefferon.net/linearalgebra/) |
 | Grasple/TU Delft          | Complete course, SVD, QR      | Interactive     | Built-in feedback     | CC (attribution)                  | [Grasple Exercises](https://www.grasple.com/math/linear-algebra) |
 | WeBWorK OER               | Core topics, applications     | Interactive     | Automated grading     | CC-BY (attribution required)       | [WeBWorK Problems](https://oer.galileo.usg.edu/mathematics-ancillary/3/) |
-| Erdman Problems           | Systems, eigenvalues, det.    | PDF, LaTeX      | Odd-numbered ans.     | Free non-commercial               | [Erdman Problems](https://share.google/gP4Xm6ji1OYyM7FlB) |
+| Erdman Problems           | Systems, eigenvalues, det.    | PDF, LaTeX      | Odd-numbered ans.     | Free non-commercial               | [Erdman Problems](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://web.pdx.edu/~erdman/LINALG/Linalg_pdf.pdf) |
 | Dalhousie (Selinger)      | Core, extra problems          | PDF, online     | Selected answers      | CC BY 4.0 International           | [Dalhousie Open Text](https://github.com/selinger/linear-algebra) |
 
 ## Future Plans
