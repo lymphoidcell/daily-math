@@ -71,8 +71,8 @@ Vectors in ℝⁿ formalize "ordered lists of numbers." Equality is entrywise; o
 - Do you see how dimension mismatches (e.g., comparing a pair to a triple) invalidate equality?
 
 **Initial Observations:**
-- From equality: x − y = 4, x + y = 2 ⇒ x = 3, y = −1
-- From the third component: z − 1 = 3 ⇒ z = 4
+- From equality: x − y = 4, x + y = 2
+- From the third component: z − 1 = 3
 - The first two listed vectors are in ℝ²; the latter two are in ℝ³; (0, 0, 0) is the zero vector
 
 ### Status Tracking
