@@ -25,6 +25,7 @@ This repository serves as a shared learning space where participants engage with
 | Babas | [@bashirhanafi](https://github.com/bashirhanafi) | [Ola!](https://www.linkedin.com/in/bashirhanafi/) | Soon - Member | [View](https://github.com/lymphoidcell/daily-math/blob/main/Solutions/Babas/solution-list.md) |
 | Jessica | N/A. _I will be the one uploading her solution_ | [Ola!](https://www.linkedin.com/in/elizabeth-jessica-dimitri/) | Soon - Member | [View](https://github.com/lymphoidcell/daily-math/blob/main/Solutions/Jessica/solution-list.md) |
 | Wildan | [@wildmove](https://github.com/wildmove) | [Ola!](https://www.linkedin.com/in/wildanamiin/) | Active - Member | [View](https://github.com/lymphoidcell/daily-math/blob/main/Solutions/Wildan/solution-list.md) |
+| Oci | [@rosessea](https://github.com/rosessea) | TBA | Active - Member | [View](https://github.com/lymphoidcell/daily-math/tree/main/Solutions/Oci) |
 | TBA | TBA | TBA | TBA | TBA |
 
 
