@@ -84,7 +84,6 @@ Vectors in ℝⁿ formalize "ordered lists of numbers." Equality is entrywise; o
 | [Name] | [Link to solution doc] | [YYYY-MM-DD] | [Optional: approach used] |
 
 ### External Resources
-| Source | Link | Type | Notes |
-|--------|------|------|-------|
-| [e.g., Stack Exchange] | [URL] | Discussion / Solution / Explanation | Brief description |
-| [e.g., YouTube] | [URL] | Video / Tutorial | Brief description |
+| Source | Topic | Brief Description |
+|--------|-------|-------------------|
+| [YouTube](https://www.youtube.com/watch?v=J7DzL2_Na80&t=430s) | The Geometry of Linear Equations | Addresses the fundamental problem of solving a system of linear equations (Ax=b) |
