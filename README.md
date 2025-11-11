@@ -34,7 +34,7 @@ This repository serves as a shared learning space where participants engage with
 
 | Day | Topic | Category | Problem | Who Solved | Notes / Insights |
 |------|-------|----------|------------------|------------|------------------|
-| #1 | Vector Equality in ℝⁿ | Linear Algebra (Machine Learning Math) | [Daily Math - DAY 1](https://github.com/lymphoidcell/daily-math/blob/main/November%202025/Day%201/problem.md) | Phanie's Mom, Phanie | [Phanie's Note](https://www.notion.so/Chapter-1-Introduction-to-Vectors-in-R-and-C-2a86760c95538066a713da73ee81394f) |
+| #1 | Vector Equality in ℝⁿ | Linear Algebra (Machine Learning Math) | [Daily Math - DAY 1](https://github.com/lymphoidcell/daily-math/blob/main/November%202025/Day%201/problem.md) | Phanie's Mom, Phanie | [Chapter 1 - Phanie's Note](https://www.notion.so/Chapter-1-Introduction-to-Vectors-in-R-and-C-2a86760c95538066a713da73ee81394f) |
 | #2 | Basic Vector Operations in ℝ³ | Linear Algebra (Machine Learning Math) | [Daily Math - DAY 2](https://github.com/lymphoidcell/daily-math/blob/main/November%202025/Day%202/problem.md) | TBA | Still in Chapter 1 |
 
 ## Categories
