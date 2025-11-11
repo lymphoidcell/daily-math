@@ -30,6 +30,8 @@ This repository serves as a shared learning space where participants engage with
 
 ## Daily Progress
 
+### [Tracker](https://www.notion.so/8789d535e5fd41e9a8c6ea60e623fd9d?v=108721d9930e412d8edfa2f5c7088cba)
+
 | Day | Topic | Category | Problem | Who Solved | Notes / Insights |
 |------|-------|----------|------------------|------------|------------------|
 | #1 | Vector Equality in ℝⁿ | Linear Algebra (Machine Learning Math) | [Daily Math - DAY 1](https://github.com/lymphoidcell/daily-math/blob/main/November%202025/Day%201/problem.md) | Phanie's Mom | TBA |
