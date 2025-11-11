@@ -5,7 +5,7 @@ This document maintains a comprehensive list of all problems solved across all c
 ## All Solutions
 
 | Date | Problem Title | Category | Topic | Source | Solver | Solution Link | Difficulty |
-|------|---------------|----------|-------|--------|-----------|---------------|------------|
+|------|---------------|----------|-------|--------|--------|---------------|------------|
 | TBA | TBA | TBA | TBA | TBA | TBA | TBA | TBA |
 
 ## Statistics Summary
