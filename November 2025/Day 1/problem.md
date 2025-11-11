@@ -1,5 +1,7 @@
 ## [📁 Notion Page Link](https://www.notion.so/Daily-Math-Problem-DAY-1-2a76760c955380c69e50c30eb2691973?source=copy_link)
 
+Translated to bahasa Indonesia: [Indonesia](https://www.notion.so/Daily-Math-HARI-1-2a86760c9553807f85ffebf00274f440?source=copy_link)
+
 ---
 
 # Daily Math Problem - DAY 1
