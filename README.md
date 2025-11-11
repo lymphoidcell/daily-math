@@ -1,13 +1,15 @@
 # DAILY MATH
 > **Note:**    Feedbacks are SUPER WELCOME!!! ⸜(｡˃ ᵕ ˂)⸝♡
 
-## [Notion Page](https://www.notion.so/Daily-Math-Collaboration-Project-2a76760c9553809faef8f8c4aa41a2c5?source=copy_link)
+## 📝 [Notion Page](https://www.notion.so/Daily-Math-Collaboration-Project-2a76760c9553809faef8f8c4aa41a2c5?source=copy_link)
 
 ## Introduction
 
 Welcome to **Daily Math**, a collaborative project dedicated to solving one mathematical problem each day. The primary objective is to build a robust and comprehensive understanding of mathematical concepts that underpin Machine Learning, Deep Learning, Artificial Intelligence, and more.
 
 This repository serves as a shared learning space where participants engage with challenging problems, document their solutions, and exchange insights. By maintaining consistent daily practice, we aim to strengthen our mathematical foundations and develop the analytical skills essential for cutting-edge research and application in AI and related fields.
+
+## [Compilation of Learning Notes on the Problem’s Topic](https://www.notion.so/2a86760c95538056acaec1dfe8b42e68?v=2a86760c95538053b49a000c9ea065c3&source=copy_link)
 
 ## Project Timeline
 ### [Gantt Chart | Calendar](https://www.notion.so/79be1090f54240a9a4490aee16eeb38d?v=ea78a997cedd402c955309beacc1c2e2&source=copy_link)
