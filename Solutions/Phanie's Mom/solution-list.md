@@ -4,9 +4,9 @@ This document maintains a comprehensive list of all problems solved across all c
 
 ## All Solutions
 
-| Date | Problem Title | Category | Topic | Source | Solver(s) | Solution Link | Difficulty |
-|------|---------------|----------|-------|--------|-----------|---------------|------------|
-| TBA | TBA | TBA | TBA | TBA | TBA | TBA | TBA |
+| Date | Problem Title | Category | Topic | Source | Solver | Solution Link | Difficulty |
+|------|---------------|----------|-------|--------|--------|---------------|------------|
+| 11 November 2025 | Vector Equality in ℝⁿ | Machine Learning Math | Linear Algebra | Schaum's Outline of Linear Algebra, Fourth Edition | DG (Phanie's Mom) | [View](https://github.com/lymphoidcell/daily-math/blob/main/Solutions/Phanie's%20Mom/Phanie's%20Mom%20-%20DAY%201.png) | Easy |
 
 ## Statistics Summary
 
@@ -14,7 +14,7 @@ This document maintains a comprehensive list of all problems solved across all c
 
 | Category | Total Problems | Easy | Medium | Hard |
 |----------|----------------|------|--------|------|
-| Machine Learning Math | 0 | 0 | 0 | 0 |
+| Machine Learning Math | 1 | 1 | 0 | 0 |
 | Deep Learning Math | 0 | 0 | 0 | 0 |
 | AI Math & Theory | 0 | 0 | 0 | 0 |
 | **Total** | **0** | **0** | **0** | **0** |
@@ -23,7 +23,7 @@ This document maintains a comprehensive list of all problems solved across all c
 
 | Topic | Total Problems | Most Recent |
 |-------|----------------|-------------|
-| Linear Algebra | 0 | - |
+| Linear Algebra | 1 | [View](https://github.com/lymphoidcell/daily-math/blob/main/Solutions/Phanie's%20Mom/Phanie's%20Mom%20-%20DAY%201.png) |
 | Probability Theory | 0 | - |
 | Statistics | 0 | - |
 | Calculus | 0 | - |
