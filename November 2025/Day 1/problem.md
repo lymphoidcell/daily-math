@@ -86,4 +86,4 @@ Vectors in ℝⁿ formalize "ordered lists of numbers." Equality is entrywise; o
 ### External Resources
 | Source | Topic | Brief Description |
 |--------|-------|-------------------|
-| [YouTube](https://www.youtube.com/watch?v=J7DzL2_Na80&t=430s) | The Geometry of Linear Equations | Addresses the fundamental problem of solving a system of linear equations (Ax=b) |
+| [YouTube](https://www.youtube.com/watch?v=J7DzL2_Na80&t=430s) | Addresses the fundamental problem of solving a system of linear equations (Ax=b) | The geometric implications of solutions, including the "big picture" question of whether solutions exist for every right-hand side vector, which depends on whether the column combinations fill the space, leading to discussions of non-singular (invertible) and singular matrices. |
