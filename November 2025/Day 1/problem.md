@@ -81,9 +81,12 @@ Vectors in ℝⁿ formalize "ordered lists of numbers." Equality is entrywise; o
 ### Solutions Available
 | Participant | Solution Link | Date Submitted | Notes |
 |-------------|---------------|----------------|-------|
-| [Name] | [Link to solution doc] | [YYYY-MM-DD] | [Optional: approach used] |
+| Phanie's Mom | [View](https://github.com/lymphoidcell/daily-math/blob/main/Solutions/Phanie's%20Mom/Phanie's%20Mom%20-%20DAY%201.png) | 11 November 2025 | Using eliminations followed by substitution method |
 
 ### External Resources
 | Source | Topic | Brief Description |
 |--------|-------|-------------------|
-| [YouTube](https://www.youtube.com/watch?v=J7DzL2_Na80&t=430s) | Addresses the fundamental problem of solving a system of linear equations (Ax=b) | The geometric implications of solutions, including the "big picture" question of whether solutions exist for every right-hand side vector, which depends on whether the column combinations fill the space, leading to discussions of non-singular (invertible) and singular matrices. |
+| [1. The Geometry of Linear Equations](https://www.youtube.com/watch?v=J7DzL2_Na80&t=430s) | Addresses the fundamental problem of solving a system of linear equations (Ax=b) | The geometric implications of solutions, including the "big picture" question of whether solutions exist for every right-hand side vector, which depends on whether the column combinations fill the space, leading to discussions of non-singular (invertible) and singular matrices. |
+| [Solving Systems of Equations By Elimination & Substitution With 2 Variables](https://www.youtube.com/watch?v=oKqtgz2eo-Y) | - | - |
+| [A Guide to Gaussian Elimination Method](https://www.youtube.com/watch?v=seet9VyHo3Q) | - | - |
+
