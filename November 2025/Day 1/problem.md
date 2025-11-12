@@ -82,7 +82,7 @@ Vectors in ℝⁿ formalize "ordered lists of numbers." Equality is entrywise; o
 | Participant | Solution Link | Date Submitted | Notes |
 |-------------|---------------|----------------|-------|
 | Phanie's Mom | [View](https://github.com/lymphoidcell/daily-math/blob/main/Solutions/Phanie's%20Mom/Phanie's%20Mom%20-%20DAY%201.png) | 11 November 2025 | Using eliminations followed by substitution method |
-| Phanie | [View](https://github.com/lymphoidcell/daily-math/blob/main/Solutions/Phanie/DAY%201%20-%20Daily%20Math%20Solution.pdf) | 11 November 2025 | [Chapter 1: Introduction to Vectors in Rⁿ and Cⁿ](https://www.notion.so/Chapter-1-Introduction-to-Vectors-in-R-and-C-2a86760c95538066a713da73ee81394f?source=copy_link) |
+| Phanie | [View](https://www.notion.so/Daily-Math-Solution-DAY-1-2a86760c9553805ca0f0db366ec586e2) | 11 November 2025 | [Chapter 1: Introduction to Vectors in Rⁿ and Cⁿ](https://www.notion.so/Chapter-1-Introduction-to-Vectors-in-R-and-C-2a86760c95538066a713da73ee81394f?source=copy_link) |
 
 ### External Resources
 | Source | Topic | Brief Description |
