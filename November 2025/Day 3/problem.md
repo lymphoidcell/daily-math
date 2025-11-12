@@ -2,6 +2,8 @@
 ## Advanced Systems of Linear Equations Practice Set
 **Problem Curator: Phanie**
 
+## [PDF Version | Latex](https://github.com/lymphoidcell/daily-math/blob/main/November%202025/Day%203/Daily%20Math%20Problem%20-%20DAY%203.pdf)
+
 ---
 
 ### Solutions Available
