@@ -1,8 +1,12 @@
+## [📁 Notion Page Link](https://www.notion.so/Daily-Math-Problem-DAY-3-a031a1d49ee54ea4bbd6d22f60e63c64?source=copy_link)  
+
+## [PDF Version | Latex](https://github.com/lymphoidcell/daily-math/blob/main/November%202025/Day%203/Daily%20Math%20Problem%20-%20DAY%203.pdf)
+
+---
+
 # DAILY MATH - DAY 3 CHALLENGE
 ## Linear Equations Practice Set
 **Problem Curator: Phanie**
-
-## [PDF Version | Latex](https://github.com/lymphoidcell/daily-math/blob/main/November%202025/Day%203/Daily%20Math%20Problem%20-%20DAY%203.pdf)
 
 ---
 
