@@ -89,6 +89,14 @@ In other words, LET'S AVOID GETTING BRAIN ROT!!!
 
 ## How to Contribute
 
+### REAL TALK
+
+If you want to become a collaborator on this repository, there’s only one thing you need: **a genuine willingness to commit and contribute**.  
+
+Beyond the goals listed above, the most fascinating part of doing math daily is developing a deep and comprehensive understanding of the concepts. I promise this will help in many aspects of life—especially if you work in STEM or finance.  
+
+Math isn’t just about solving problems; it’s about training the mind to think with structure, clarity, and logic.  
+
 ### Adding a Daily Problem
 
 1. Fork this repository
