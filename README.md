@@ -24,7 +24,6 @@ This repository serves as a shared learning space where participants engage with
 | Aurelia | [@Roring-Aurelia](https://github.com/Roring-Aurelia) | [Ola!](https://www.linkedin.com/in/aurelia-theresia-8a0ab62b6) | Active - Member | [View](https://github.com/lymphoidcell/daily-math/blob/main/Solutions/Aurelia/solution-list.md) |
 | Jessica | N/A. _I will be the one uploading her solution_ | [Ola!](https://www.linkedin.com/in/elizabeth-jessica-dimitri/) | Soon - Member | [View](https://github.com/lymphoidcell/daily-math/blob/main/Solutions/Jessica/solution-list.md) |
 | Oci | [@rosessea](https://github.com/rosessea) | TBA | Active - Member | [View](https://github.com/lymphoidcell/daily-math/tree/main/Solutions/Oci) |
-| Wildan | [@wildmove](https://github.com/wildmove) | [Ola!](https://www.linkedin.com/in/wildanamiin/) | Active - Member | [View](https://github.com/lymphoidcell/daily-math/blob/main/Solutions/Wildan/solution-list.md) |
 | TBA | TBA | TBA | TBA | TBA |
 
 
