@@ -7,7 +7,8 @@ This document maintains a comprehensive list of all problems solved across all c
 | Date | Problem Title | Category | Topic | Source | Solver | Solution Link | Difficulty |
 |------|---------------|----------|-------|--------|--------|---------------|------------|
 | 11 November 2025 | Vector Equality in ℝⁿ | Machine Learning Math | Linear Algebra | Schaum's Outline of Linear Algebra, Fourth Edition | DG (Phanie's Mom) | [View](https://github.com/lymphoidcell/daily-math/blob/main/Solutions/Phanie's%20Mom/Phanie's%20Mom%20-%20DAY%201.png) | Easy |
-| 12 November 2025 | Basic Vector Operations in ℝ³ | Machine Learning Math | Linear Algebra | Schaum's Outline of Linear Algebra, Fourth Edition | DG (Phanie's Mom) | [View](https://github.com/lymphoidcell/daily-math/blob/main/Solutions/Phanie's%20Mom/Phanie's%20Mom%20-%20DAY%202.png) | Easy
+| 12 November 2025 | Basic Vector Operations in ℝ³ | Machine Learning Math | Linear Algebra | Schaum's Outline of Linear Algebra, Fourth Edition | DG (Phanie's Mom) | [View](https://github.com/lymphoidcell/daily-math/blob/main/Solutions/Phanie's%20Mom/Phanie's%20Mom%20-%20DAY%202.png) | Easy |
+| 13 November 2025 | Title | Machine Learning Math | Linear Algebra | Random | DG (Phanie's Mom) | [View](https://github.com/lymphoidcell/daily-math/blob/main/Solutions/Phanie's%20Mom/Phanie's%20Mom%20-%20DAY%203.pdf) | Easy |
 
 ## Statistics Summary
 
@@ -15,7 +16,7 @@ This document maintains a comprehensive list of all problems solved across all c
 
 | Category | Total Problems | Easy | Medium | Hard |
 |----------|----------------|------|--------|------|
-| Machine Learning Math | 2 | 2 | 0 | 0 |
+| Machine Learning Math | 3 | 3 | 0 | 0 |
 | Deep Learning Math | 0 | 0 | 0 | 0 |
 | AI Math & Theory | 0 | 0 | 0 | 0 |
 | **Total** | **0** | **0** | **0** | **0** |
@@ -24,7 +25,7 @@ This document maintains a comprehensive list of all problems solved across all c
 
 | Topic | Total Problems | Most Recent |
 |-------|----------------|-------------|
-| Linear Algebra | 2 | [View](https://github.com/lymphoidcell/daily-math/blob/main/Solutions/Phanie's%20Mom/Phanie's%20Mom%20-%20DAY%202.png) |
+| Linear Algebra | 3 | [View](https://github.com/lymphoidcell/daily-math/blob/main/Solutions/Phanie's%20Mom/Phanie's%20Mom%20-%20DAY%203.pdf) |
 | Probability Theory | 0 | - |
 | Statistics | 0 | - |
 | Calculus | 0 | - |
