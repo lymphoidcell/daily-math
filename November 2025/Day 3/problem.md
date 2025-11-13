@@ -13,7 +13,7 @@
 ### Solutions Available
 | Participant | Solution Link | Date Submitted | Notes |
 |-------------|---------------|----------------|-------|
-| Phanie's Mom | TBA | November 13, 2025 | TBA |
+| Phanie's Mom | [View](https://github.com/lymphoidcell/daily-math/blob/main/Solutions/Phanie's%20Mom/Phanie's%20Mom%20-%20DAY%203.pdf) | November 13, 2025 | TBA |
 | Phanie | TBA | November 13, 2025 | [📓 Chapter 1 Introduction to Vectors in ℝⁿ and ℂⁿ](https://example.com) |
 | TBA | TBA | TBA | TBA |
 
