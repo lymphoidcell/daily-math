@@ -40,7 +40,7 @@ This repository serves as a shared learning space where participants engage with
 | #3 | Linear Equations Practice Set | Linear Algebra (Machine Learning Math) | [Daily Math - DAY 3](https://github.com/lymphoidcell/daily-math/blob/main/November%202025/Day%203/problem.md) | Phanie's Mom, Phanie | Still in Chapter 1 |
 | #4 | Dot Product, Orthogonality, Distance, Angle, Projection in ℝ³/ℝ⁴ | Linear Algebra (Machine Learning Math) | [Daily Math - DAY 4](https://github.com/lymphoidcell/daily-math/blob/main/November%202025/Day%204/problem.md) | Phanie's Mom, Phanie | Still in Chapter 1 |
 | #5 | Geometry of Hyperplanes and Lines in ℝⁿ | Linear Algebra (Machine Learning Math) | [Daily Math - DAY 5](https://github.com/lymphoidcell/daily-math/blob/main/November%202025/Day%205/problem.md) | TBA | Still in Chapter 1 |
-| #6 | Unit Tangent Vector of a Parametric Curve in ℝ³ | Linear Algebra (Machine Learning Math) | [Daily Math - DAY 6](https://github.com/lymphoidcell/daily-math/blob/main/November%202025/Day%206/problem.md) | TBA | Still in Chapter 1 |
+| #6 | Unit Tangent Vector of a Parametric Curve in ℝ³ | Linear Algebra (Machine Learning Math) | [Daily Math - DAY 6](https://github.com/lymphoidcell/daily-math/blob/main/November%202025/Day%206/problem.md) | TBA | Still in Chapter 1 and there are [Supplementary Problems](https://www.notion.so/Supplementary-Problems-for-DAY-6-2ab6760c955380e2b99ace53fdb073e3?source=copy_link) |
 
 ## Categories
 
