@@ -20,10 +20,10 @@ This repository serves as a shared learning space where participants engage with
 |------|-----------------|------------|-------------|----------------|
 | Phanie | [@lymphoidcell](https://github.com/lymphoidcell) | [Ola!](https://www.linkedin.com/in/thscho/) | Active - Host  | [View](https://github.com/lymphoidcell/daily-math/tree/main/Solutions/Phanie)
 | My Mom | N/A. _I will be the one uploading my mom's solution_ | N/A | Active - Member | [View](https://github.com/lymphoidcell/daily-math/blob/main/Solutions/Phanie's%20Mom/solution-list.md) |
-| Aisyah | [@aisyahkhns](https://github.com/aisyahkhns) | [Ola!](https://www.linkedin.com/in/aisyakhns/) | Active - Member | [View](https://github.com/lymphoidcell/daily-math/blob/main/Solutions/Aisyah/solution-list.md) |
-| Aurelia | [@Roring-Aurelia](https://github.com/Roring-Aurelia) | [Ola!](https://www.linkedin.com/in/aurelia-theresia-8a0ab62b6) | Active - Member | [View](https://github.com/lymphoidcell/daily-math/blob/main/Solutions/Aurelia/solution-list.md) |
-| Jessica | N/A. _I will be the one uploading her solution_ | [Ola!](https://www.linkedin.com/in/elizabeth-jessica-dimitri/) | Soon - Member | [View](https://github.com/lymphoidcell/daily-math/blob/main/Solutions/Jessica/solution-list.md) |
-| Oci | [@rosessea](https://github.com/rosessea) | TBA | Active - Member | [View](https://github.com/lymphoidcell/daily-math/tree/main/Solutions/Oci) |
+| Aisyah | [@aisyahkhns](https://github.com/aisyahkhns) | [Ola!](https://www.linkedin.com/in/aisyakhns/) | TBA | [View](https://github.com/lymphoidcell/daily-math/blob/main/Solutions/Aisyah/solution-list.md) |
+| Aurelia | [@Roring-Aurelia](https://github.com/Roring-Aurelia) | [Ola!](https://www.linkedin.com/in/aurelia-theresia-8a0ab62b6) | TBA | [View](https://github.com/lymphoidcell/daily-math/blob/main/Solutions/Aurelia/solution-list.md) |
+| Jessica | N/A. _I will be the one uploading her solution_ | [Ola!](https://www.linkedin.com/in/elizabeth-jessica-dimitri/) | TBA | [View](https://github.com/lymphoidcell/daily-math/blob/main/Solutions/Jessica/solution-list.md) |
+| Oci | [@rosessea](https://github.com/rosessea) | TBA | TBA | [View](https://github.com/lymphoidcell/daily-math/tree/main/Solutions/Oci) |
 | TBA | TBA | TBA | TBA | TBA |
 
 
