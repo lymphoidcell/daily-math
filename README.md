@@ -37,6 +37,7 @@ This repository serves as a shared learning space where participants engage with
 | #2 | Basic Vector Operations in ℝ³ | Linear Algebra (Machine Learning Math) | [Daily Math - DAY 2](https://github.com/lymphoidcell/daily-math/blob/main/November%202025/Day%202/problem.md) | Phanie's Mom, Phanie | Still in Chapter 1 |
 | #3 | Linear Equations Practice Set | Linear Algebra (Machine Learning Math) | [Daily Math - DAY 3](https://github.com/lymphoidcell/daily-math/blob/main/November%202025/Day%203/problem.md) | Phanie's Mom, Phanie | Still in Chapter 1 |
 | #4 | Dot Product, Orthogonality, Distance, Angle, Projection in ℝ³/ℝ⁴ | Linear Algebra (Machine Learning Math) | [Daily Math - DAY 4](https://github.com/lymphoidcell/daily-math/blob/main/November%202025/Day%204/problem.md) | Phanie's Mom, Phanie | Still in Chapter 1 |
+| #5 | Geometry of Hyperplanes and Lines in ℝⁿ | Linear Algebra (Machine Learning Math) | [Daily Math - DAY 5](https://github.com/lymphoidcell/daily-math/blob/main/November%202025/Day%205/problem.md) | TBA | Still in Chapter 1 |
 
 ## Categories
 
