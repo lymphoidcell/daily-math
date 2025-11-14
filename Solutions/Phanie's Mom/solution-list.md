@@ -17,7 +17,7 @@ This document maintains a comprehensive list of all problems solved across all c
 
 | Category | Total Problems | Easy | Medium | Hard |
 |----------|----------------|------|--------|------|
-| Machine Learning Math | 3 | 3 | 0 | 0 |
+| Machine Learning Math | 4 | 4 | 0 | 0 |
 | Deep Learning Math | 0 | 0 | 0 | 0 |
 | AI Math & Theory | 0 | 0 | 0 | 0 |
 | **Total** | **0** | **0** | **0** | **0** |
@@ -26,7 +26,7 @@ This document maintains a comprehensive list of all problems solved across all c
 
 | Topic | Total Problems | Most Recent |
 |-------|----------------|-------------|
-| Linear Algebra | 3 | [View](https://github.com/lymphoidcell/daily-math/blob/main/Solutions/Phanie's%20Mom/Phanie's%20Mom%20-%20DAY%203.pdf) |
+| Linear Algebra | 4 | [View](https://github.com/lymphoidcell/daily-math/blob/main/Solutions/Phanie's%20Mom/Phanie's%20Mom%20-%20DAY%204.png) |
 | Probability Theory | 0 | - |
 | Statistics | 0 | - |
 | Calculus | 0 | - |
