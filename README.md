@@ -31,6 +31,8 @@ This repository serves as a shared learning space where participants engage with
 
 ### [Tracker](https://www.notion.so/8789d535e5fd41e9a8c6ea60e623fd9d?v=108721d9930e412d8edfa2f5c7088cba)
 
+**Week 1 | 11 - 17 November 2025**
+
 | Day | Topic | Category | Problem | Who Solved | Notes / Insights |
 |------|-------|----------|------------------|------------|------------------|
 | #1 | Vector Equality in ℝⁿ | Linear Algebra (Machine Learning Math) | [Daily Math - DAY 1](https://github.com/lymphoidcell/daily-math/blob/main/November%202025/Day%201/problem.md) | Phanie's Mom, Phanie | [Chapter 1 - Phanie's Note](https://www.notion.so/Chapter-1-Introduction-to-Vectors-in-R-and-C-2a86760c95538066a713da73ee81394f) |
