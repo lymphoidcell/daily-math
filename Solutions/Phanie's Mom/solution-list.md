@@ -8,7 +8,8 @@ This document maintains a comprehensive list of all problems solved across all c
 |------|---------------|----------|-------|--------|--------|---------------|------------|
 | 11 November 2025 | Vector Equality in ℝⁿ | Machine Learning Math | Linear Algebra | Schaum's Outline of Linear Algebra, Fourth Edition | DG (Phanie's Mom) | [View](https://github.com/lymphoidcell/daily-math/blob/main/Solutions/Phanie's%20Mom/Phanie's%20Mom%20-%20DAY%201.png) | Easy |
 | 12 November 2025 | Basic Vector Operations in ℝ³ | Machine Learning Math | Linear Algebra | Schaum's Outline of Linear Algebra, Fourth Edition | DG (Phanie's Mom) | [View](https://github.com/lymphoidcell/daily-math/blob/main/Solutions/Phanie's%20Mom/Phanie's%20Mom%20-%20DAY%202.png) | Easy |
-| 13 November 2025 | Title | Machine Learning Math | Linear Algebra | Random | DG (Phanie's Mom) | [View](https://github.com/lymphoidcell/daily-math/blob/main/Solutions/Phanie's%20Mom/Phanie's%20Mom%20-%20DAY%203.pdf) | Easy |
+| 13 November 2025 | Linear Equations Practice Set| Machine Learning Math | Linear Algebra | Random | DG (Phanie's Mom) | [View](https://github.com/lymphoidcell/daily-math/blob/main/Solutions/Phanie's%20Mom/Phanie's%20Mom%20-%20DAY%203.pdf) | Easy |
+| 14 November 2025 | 	Dot Product, Orthogonality, Distance, Angle, Projection in ℝ³/ℝ⁴ | Machine Learning Math | Linear Algebra | Schaum's Online of Linear Algebra, Fourth Edition | DG (Phanie's Mom) | [View](https://github.com/lymphoidcell/daily-math/blob/main/Solutions/Phanie's%20Mom/Phanie's%20Mom%20-%20DAY%204.png) | Easy |
 
 ## Statistics Summary
 
