@@ -2,7 +2,7 @@
 
 ---
 
-# Daily Math Problem - DAY 10 🔟
+# Daily Math Problem - DAY 10
 
 ### Problem Metadata
 - **Date**: 2025-11-20
