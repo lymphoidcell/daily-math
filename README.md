@@ -49,7 +49,8 @@ This repository serves as a shared learning space where participants engage with
 
 | Day | Topic | Category | Problem | Who Solved | Notes / Insights |
 |------|-------|----------|------------------|------------|------------------|
-| #8 | Vector Algebra — Cross Product (Determinant Method & Component Formula) | Linear Algebra (Machine Learning Math) | [Daily Math - DAY 8](https://github.com/lymphoidcell/daily-math/blob/main/November%202025/Day%208/problem.md) | TBA | Still in Chapter 1 |
+| #8 | Vector Algebra — Cross Product (Determinant Method & Component Formula) | Linear Algebra (Machine Learning Math) | [Daily Math - DAY 8](https://github.com/lymphoidcell/daily-math/blob/main/November%202025/Day%208/problem.md) | TBA | [Chapter 1 - Phanie's Note](https://www.notion.so/Chapter-1-Introduction-to-Vectors-in-R-and-C-2a86760c95538066a713da73ee81394f) |
+| #9 | Complex Numbers (Algebraic Form, Conjugate, Division, Magnitude) | Linear Algebra (Machine Learning Math) | [Daily Math - DAY 9](https://github.com/lymphoidcell/daily-math/blob/main/November%202025/Day%209/problem.md) | TBA | Still in Chapter 1 |
 
 ## Categories
 
