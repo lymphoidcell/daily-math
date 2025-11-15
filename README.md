@@ -42,6 +42,7 @@ This repository serves as a shared learning space where participants engage with
 | #5 | Geometry of Hyperplanes and Lines in ℝⁿ | Linear Algebra (Machine Learning Math) | [Daily Math - DAY 5](https://github.com/lymphoidcell/daily-math/blob/main/November%202025/Day%205/problem.md) | Phanie's Mom, Phanie | Still in Chapter 1 |
 | #6 | Unit Tangent Vector of a Parametric Curve in ℝ³ | Linear Algebra (Machine Learning Math) | [Daily Math - DAY 6](https://github.com/lymphoidcell/daily-math/blob/main/November%202025/Day%206/problem.md) | TBA | Still in Chapter 1 |
 |   |                                                  |                                        | [Supplementary Problems for DAY 6](https://www.notion.so/Supplementary-Problems-for-DAY-6-2ab6760c955380e2b99ace53fdb073e3?source=copy_link) | TBA | Parallel to Calculus 3 |
+| #7 | Vector Algebra (Component-wise Operations, Dot Product, Norm) | Linear Algebra (Machine Learning Math) | [Daily Math - DAY 7](https://github.com/lymphoidcell/daily-math/blob/main/November%202025/Day%207/problem.md) | TBA | Still in Chapter 1 |
 
 ## Categories
 
