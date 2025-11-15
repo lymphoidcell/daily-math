@@ -111,7 +111,7 @@ The problems reinforce how equations in ℝⁿ encode geometry, orientation, and
 ### Solutions Available
 | Participant | Solution Link | Date Submitted | Notes |
 |-------------|---------------|----------------|-------|
-| Phanie's Mom | TBA | November 15, 2025 | - |
+| Phanie's Mom | [View](https://github.com/lymphoidcell/daily-math/blob/main/Solutions/Phanie's%20Mom/Phanie's%20Mom%20-%20DAY%205.pdf) | November 15, 2025 | - |
 | Phanie | TBA | November 15, 2025 | [📓 Chapter 1 Introduction to Vectors in ℝⁿ and ℂⁿ](https://example.com) |
 | TBA | TBA | TBA | TBA |
 
