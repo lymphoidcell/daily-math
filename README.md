@@ -45,6 +45,12 @@ This repository serves as a shared learning space where participants engage with
 | #7 | Vector Algebra (Component-wise Operations, Dot Product, Norm) | Linear Algebra (Machine Learning Math) | [Daily Math - DAY 7](https://github.com/lymphoidcell/daily-math/blob/main/November%202025/Day%207/problem.md) | TBA | Still in Chapter 1 |
 |    |                                                               |                          | [Supplementary Problems for DAY 7](https://www.notion.so/Supplementary-Problems-for-DAY-7-2ac6760c9553811d8bb5f5adaed669ca?source=copy_link) | TBA |  |
 
+**Week 2: 18 - 24 November 2025**
+
+| Day | Topic | Category | Problem | Who Solved | Notes / Insights |
+|------|-------|----------|------------------|------------|------------------|
+| #8 | TBA | TBA | TBA | TBA | TBA | TBA |
+
 ## Categories
 
 ### Machine Learning Math
