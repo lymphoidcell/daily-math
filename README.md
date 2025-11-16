@@ -27,7 +27,7 @@ This repository serves as a shared learning space where participants engage with
 | TBA | TBA | TBA | TBA | TBA |
 
 
-## Daily Progress
+## Daily Progress | [Key Performance Information](https://github.com/lymphoidcell/daily-math/blob/main/Tracker/Month%201%3A%20November%202025/Week%201/active-participant-list.md)
 
 ### [Tracker](https://www.notion.so/8789d535e5fd41e9a8c6ea60e623fd9d?v=108721d9930e412d8edfa2f5c7088cba)
 
