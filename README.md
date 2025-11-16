@@ -1,35 +1,59 @@
-# DAILY MATH
-> **Note:**    Feedbacks are SUPER WELCOME!!! ⸜(｡˃ ᵕ ˂)⸝♡
+# DAILY MATH: Collaborative Mathematical Foundation Building
+> Building mathematical foundations for AI/ML research through systematic daily practice and collaborative learning.
 
-## [Notion Version](https://www.notion.so/Daily-Math-Collaboration-Project-2a76760c9553809faef8f8c4aa41a2c5?source=copy_link)
+### Refined version of this repository: [Notion Page](https://www.notion.so/Daily-Math-Collaboration-Project-2a76760c9553809faef8f8c4aa41a2c5?source=copy_link)
 
-## Introduction
+---
 
-Welcome to **Daily Math**, a collaborative project dedicated to solving one mathematical problem each day. The primary objective is to build a robust and comprehensive understanding of mathematical concepts that underpin Machine Learning, Deep Learning, Artificial Intelligence, and more.
+## Quick Overview
 
-This repository serves as a shared learning space where participants engage with challenging problems, document their solutions, and exchange insights. By maintaining consistent daily practice, we aim to strengthen our mathematical foundations and develop the analytical skills essential for cutting-edge research and application in AI and related fields.
+**Daily Math** is a structure learning initiative where participants solve one mathematical problem daily, document solutions, and engage in peer review. We focus on deep understanding of mathematical concepts that underpin Machine Learning, Deep Learning, and AI.
 
-### 📝 [Compilation of Learning Notes on the Problem’s Topic](https://www.notion.so/2a86760c95538056acaec1dfe8b42e68?v=2a86760c95538053b49a000c9ea065c3&source=copy_link)
+**Project Stats** include:
+```
+how many problems solved, active contributions, and timeline
+```
+Can be checked on this link: [Key Performance Information](https://github.com/lymphoidcell/daily-math/tree/main/Tracker/Month%201%3A%20November%202025/Week%201)
 
-## Project Timeline
-### [Gantt Chart | Calendar](https://www.notion.so/79be1090f54240a9a4490aee16eeb38d?v=ea78a997cedd402c955309beacc1c2e2&source=copy_link)
+## What We're Learning
 
-## The Amazing People  
+Currently this project demonstrates mastery across:
 
-| Name | GitHub Username | LinkedIn | Status - Role | Solution Link |
-|------|-----------------|------------|-------------|----------------|
-| Phanie | [@lymphoidcell](https://github.com/lymphoidcell) | [Ola!](https://www.linkedin.com/in/thscho/) | Active - Host  | [View](https://github.com/lymphoidcell/daily-math/tree/main/Solutions/Phanie)
-| My Mom | N/A. _I will be the one uploading my mom's solution_ | N/A | Active - Member | [View](https://github.com/lymphoidcell/daily-math/blob/main/Solutions/Phanie's%20Mom/solution-list.md) |
-| Aisyah | [@aisyahkhns](https://github.com/aisyahkhns) | [Ola!](https://www.linkedin.com/in/aisyakhns/) | TBA | [View](https://github.com/lymphoidcell/daily-math/blob/main/Solutions/Aisyah/solution-list.md) |
-| Aurelia | [@Roring-Aurelia](https://github.com/Roring-Aurelia) | [Ola!](https://www.linkedin.com/in/aurelia-theresia-8a0ab62b6) | TBA | [View](https://github.com/lymphoidcell/daily-math/blob/main/Solutions/Aurelia/solution-list.md) |
-| Jessica | N/A. _I will be the one uploading her solution_ | [Ola!](https://www.linkedin.com/in/elizabeth-jessica-dimitri/) | TBA | [View](https://github.com/lymphoidcell/daily-math/blob/main/Solutions/Jessica/solution-list.md) |
-| Oci | [@rosessea](https://github.com/rosessea) | TBA | TBA | [View](https://github.com/lymphoidcell/daily-math/tree/main/Solutions/Oci) |
-| TBA | TBA | TBA | TBA | TBA |
+**Mathematical Foundations**
 
+- Linear Algebra: Vector spaces, matrix operations, eigenvalues, SVD
+- Vector Calculus: Parametric curves, tangent vectors, multivariable analysis
+- Complex Analysis: Complex numbers, complex vector spaces
+- Optimization Theory: Gradient methods, convex optimization
 
-## Daily Progress | [Key Performance Information](https://github.com/lymphoidcell/daily-math/tree/main/Tracker/Month%201%3A%20November%202025/Week%201)
+**Technical Skills**
 
-### [Tracker](https://www.notion.so/8789d535e5fd41e9a8c6ea60e623fd9d?v=108721d9930e412d8edfa2f5c7088cba)
+- Mathematical Documentation (LaTex, Markdown)
+- Project Management
+- Collaborative Problem-Solving
+
+## 🗂️ Repository Structure
+
+```
+daily-math/
+├── November 2025/     # Daily problems by date
+│   ├── Day 1/         # Vector Equality in ℝⁿ
+│   ├── Day 2/         # Basic Vector Operations
+│   └── ...
+├── Solutions/         # Individual solutions by contributor
+│   ├── Phanie/
+│   ├── Phanie's Mom/
+│   └── ...
+├── Tracker/           # KPIs and performance metrics
+└── Resources/         # Textbooks and reference materials
+```
+
+## Quick Links
+- [📚 Compilation of Learning Notes on the Problem’s Topic](https://www.notion.so/2a86760c95538056acaec1dfe8b42e68?v=2a86760c95538053b49a000c9ea065c3&source=copy_link)
+- [📅 Gantt Chart | Project Timeline](https://www.notion.so/79be1090f54240a9a4490aee16eeb38d?v=ea78a997cedd402c955309beacc1c2e2&source=copy_link)
+- [📈 Progress Tracker](https://www.notion.so/8789d535e5fd41e9a8c6ea60e623fd9d?v=108721d9930e412d8edfa2f5c7088cba)
+
+## Current Progress Overview
 
 **Week 1 | 11 - 17 November 2025**
 
@@ -54,7 +78,21 @@ This repository serves as a shared learning space where participants engage with
 | #10 | Complex Vectors in ℂ³ (Addition, Scalar Multiplication)| Linear Algebra (Machine Learning Math) | [Daily Math - DAY 10](https://github.com/lymphoidcell/daily-math/blob/main/November%202025/Day%2010/problem.md) | TBA | Still in Chapter 1 |
 | #11 | Complex Vectors Algebra — Dot Product & Norm in ℂ³ | Linear Algebra (Machine Learning Math) | [Daily Math - DAY 11](https://github.com/lymphoidcell/daily-math/blob/main/November%202025/Day%2011/problem.md) | TBA | Last for Chapter 1 |
 
-## Categories
+## The Amazing People  
+
+| Name | GitHub Username | LinkedIn | Status - Role | Solution Link |
+|------|-----------------|------------|-------------|----------------|
+| Phanie | [@lymphoidcell](https://github.com/lymphoidcell) | [Ola!](https://www.linkedin.com/in/thscho/) | Active - Host  | [View](https://github.com/lymphoidcell/daily-math/tree/main/Solutions/Phanie)
+| My Mom | N/A. _I will be the one uploading my mom's solution_ | N/A | Active - Member | [View](https://github.com/lymphoidcell/daily-math/blob/main/Solutions/Phanie's%20Mom/solution-list.md) |
+| Aisyah | [@aisyahkhns](https://github.com/aisyahkhns) | [Ola!](https://www.linkedin.com/in/aisyakhns/) | TBA | [View](https://github.com/lymphoidcell/daily-math/blob/main/Solutions/Aisyah/solution-list.md) |
+| Aurelia | [@Roring-Aurelia](https://github.com/Roring-Aurelia) | [Ola!](https://www.linkedin.com/in/aurelia-theresia-8a0ab62b6) | TBA | [View](https://github.com/lymphoidcell/daily-math/blob/main/Solutions/Aurelia/solution-list.md) |
+| Jessica | N/A. _I will be the one uploading her solution_ | [Ola!](https://www.linkedin.com/in/elizabeth-jessica-dimitri/) | TBA | [View](https://github.com/lymphoidcell/daily-math/blob/main/Solutions/Jessica/solution-list.md) |
+| Oci | [@rosessea](https://github.com/rosessea) | TBA | TBA | [View](https://github.com/lymphoidcell/daily-math/tree/main/Solutions/Oci) |
+| TBA | TBA | TBA | TBA | TBA |
+
+---
+
+## Mathematical Coverage
 
 ### Machine Learning Math
 
@@ -96,26 +134,31 @@ This category delves into higher-level mathematical topics that provide deeper t
 
 Reference: [How to Actually Get Better at Math](https://youtu.be/YJZCadaXjrU?si=ZFZPHwnwYURNoGA9)
 
-1. **Consistent Practice**: Commit to solving at least one mathematical problem daily to maintain continuous learning momentum
-2. **Deep Understanding**: Move beyond superficial knowledge to develop intuitive and rigorous understanding of core concepts
-3. **Collaborative Learning**: Share solutions, approaches, and insights to benefit from diverse perspectives and problem-solving strategies
-4. **Documentation**: Maintain detailed records of problems solved, methods used, and key takeaways for future reference
-5. **Application-Oriented**: Connect theoretical concepts to practical applications in ML, DL, and AI research and development
-6. **Progressive Difficulty**: Gradually increase problem complexity to continuously challenge our mathematical abilities
-
-In other words, LET'S AVOID GETTING BRAIN ROT!!!  
+1. Consistent Practice — Daily problem-solving for continuous learning momentum
+2. Deep Understanding — Build intuitive and rigorous comprehension beyond surface-level knowledge
+3. Collaborative Learning — Share diverse problem-solving approaches and insights
+4. Quality Documentation — Maintain detailed solution records for future reference
+5. Applied Focus — Connect theory to practical ML/DL/AI implementations
+6. Progressive Challenge — Systematically increase problem complexity
 
 ## How to Contribute
 
-### REAL TALK
+### What We Look For
 
-If you want to become a collaborator on this repository, there’s only one thing you need: **a genuine willingness to commit and contribute**.  
+- Commitment to daily participation
+- Focus on deep understanding over speed
+- Constructive peer review engagement
+- Clear technical documentation
+
+```
 
 Beyond the goals listed above, the most fascinating part of doing math daily is developing a deep and comprehensive understanding of the concepts. I promise this will help in many aspects of life—especially if you work in STEM or finance.  
 
-Math isn’t just about solving problems; it’s about training the mind to think with structure, clarity, and logic.  
+Math isn’t just about solving problems; it’s about training the mind to think with structure, clarity, and logic.
 
-### Adding a Daily Problem
+```
+
+### Contribution Workflow
 
 1. Fork this repository
 2. Add a new row to the Daily Progress table with the current date
@@ -123,21 +166,17 @@ Math isn’t just about solving problems; it’s about training the mind to thin
 4. If you've solved the problem, add your name and key insights
 5. Create a pull request with a clear description of your contribution
 
-### Solution Format
+### Solution Documentation Standards (Recommended)
 
-When documenting solutions, please include:
+When documenting solutions, you may include:
 
-- **Problem Statement**: Clear formulation of the problem
-- **Approach**: High-level strategy or method used
-- **Solution**: Detailed mathematical derivation or proof
-- **Verification**: Validation of the result when applicable
-- **Insights**: Key learnings, alternative approaches, or connections to other concepts
+- **Problem Statement**: Clear mathematical formulation
+- **Approach**: Solution strategy and methodology
+- **Derivation**: Step-by-step proof or computation
+- **Verification**: Result validation (where applicable)
+- **Insights**: Key learnings and broader connections
 
-Solutions can be added as:
-- Markdown files in a `solutions/` directory
-- LaTeX documents for complex mathematical notation
-- Jupyter notebooks for computational problems
-- Links to external write-ups or blog posts
+Formats: Markdown, LaTeX, or Jupyter notebooks depending on complexity
 
 ### Discussion and Review
 
@@ -145,7 +184,7 @@ Solutions can be added as:
 - Review others' solutions and provide constructive feedback
 - Suggest improvements or alternative approaches through comments or pull requests
 
-## Resources / References
+## Learning Resources
 
 ### Textbooks
 
@@ -195,11 +234,13 @@ This project is open source and available under the MIT License. Contributions a
 
 ## Contact
 
-For questions, suggestions, or collaboration inquiries, please open an issue in this repository or contact the project maintainer (📧 phaniesql[at]gmail.com).
+**Project Lead**: Phanie | 📧 phaniesql@gmail.com
+
+For collaboration inquiries, questions, or suggestions, feel free to open an issue or reach out directly.
 
 ---
 
 <div align="center">
-  <sub>We are open to collaborations and interesting projects!</sub>
+  <sub>Building mathematical foundations for next-generation AI/ML research and applications through systematic daily practice and collaborative learning.</sub>
 </div>
 
