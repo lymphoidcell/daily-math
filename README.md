@@ -9,17 +9,6 @@ Welcome to **Daily Math**, a collaborative project dedicated to solving one math
 
 This repository serves as a shared learning space where participants engage with challenging problems, document their solutions, and exchange insights. By maintaining consistent daily practice, we aim to strengthen our mathematical foundations and develop the analytical skills essential for cutting-edge research and application in AI and related fields.
 
-┌─────────────────────────────────────┐
-│  DASHBOARD, Last Updated 16/11/25   |
-├─────────────────────────────────────┤
-│ Total Problems: TBA                 │
-│ Current Streak: 6 days              │
-│ Completion Rate: 100% from 2 peers  │
-│ Peer Reviews Given: TBA             │
-│ Topics Mastered: TBA                │
-│ Active Contributors: 2              │
-└─────────────────────────────────────┘
-
 ### 📝 [Compilation of Learning Notes on the Problem’s Topic](https://www.notion.so/2a86760c95538056acaec1dfe8b42e68?v=2a86760c95538053b49a000c9ea065c3&source=copy_link)
 
 ## Project Timeline
