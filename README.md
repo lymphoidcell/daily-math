@@ -130,6 +130,8 @@ This category delves into higher-level mathematical topics that provide deeper t
 
 ### And more...
 
+---
+
 ## Goals  
 
 Reference: [How to Actually Get Better at Math](https://youtu.be/YJZCadaXjrU?si=ZFZPHwnwYURNoGA9)
@@ -184,6 +186,8 @@ Formats: Markdown, LaTeX, or Jupyter notebooks depending on complexity
 - Review others' solutions and provide constructive feedback
 - Suggest improvements or alternative approaches through comments or pull requests
 
+---
+
 ## Learning Resources
 
 ### Textbooks
@@ -223,6 +227,8 @@ GitHub repos from other users:
 | WeBWorK OER               | Core topics, applications     | Interactive     | Automated grading     | CC-BY (attribution required)       | [WeBWorK Problems](https://oer.galileo.usg.edu/mathematics-ancillary/3/) |
 | Erdman Problems           | Systems, eigenvalues, det.    | PDF, LaTeX      | Odd-numbered ans.     | Free non-commercial               | _Cannot paste the link. Try Googling for the resource keywords, thanks!_ |
 | Dalhousie (Selinger)      | Core, extra problems          | PDF, online     | Selected answers      | CC BY 4.0 International           | [Dalhousie Open Text](https://github.com/selinger/linear-algebra) |
+
+---
 
 ## Future Plans
 
