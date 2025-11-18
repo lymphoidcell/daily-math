@@ -59,7 +59,7 @@ daily-math/
 
 | Day | Topic | Category | Problem | Who Solved | Notes / Insights |
 |------|-------|----------|------------------|------------|------------------|
-| #1 | Vector Equality in ℝⁿ | Linear Algebra (Machine Learning Math) | [Daily Math - DAY 1](https://github.com/lymphoidcell/daily-math/blob/main/November%202025/Day%201/problem.md) | Phanie's Mom, Phanie | [Chapter 1 - Phanie's Note](https://www.notion.so/Chapter-1-Introduction-to-Vectors-in-R-and-C-2a86760c95538066a713da73ee81394f) |
+| #1 | Vector Equality in ℝⁿ | Linear Algebra (Machine Learning Math) | [Daily Math - DAY 1](https://github.com/lymphoidcell/daily-math/blob/main/November%202025/Day%201/problem.md) | Phanie's Mom, Phanie | [Chapter 1 - Phanie's Note](https://www.notion.so/Chapter-1-Introduction-to-Vectors-in-R-and-C-2a86760c95538066a713da73ee81394f); *Requires request access* |
 | #2 | Basic Vector Operations in ℝ³ | Linear Algebra (Machine Learning Math) | [Daily Math - DAY 2](https://github.com/lymphoidcell/daily-math/blob/main/November%202025/Day%202/problem.md) | Phanie's Mom, Phanie | Still in Chapter 1 |
 | #3 | Linear Equations Practice Set | Linear Algebra (Machine Learning Math) | [Daily Math - DAY 3](https://github.com/lymphoidcell/daily-math/blob/main/November%202025/Day%203/problem.md) | Phanie's Mom, Phanie | Still in Chapter 1 |
 | #4 | Dot Product, Orthogonality, Distance, Angle, Projection in ℝ³/ℝ⁴ | Linear Algebra (Machine Learning Math) | [Daily Math - DAY 4](https://github.com/lymphoidcell/daily-math/blob/main/November%202025/Day%204/problem.md) | Phanie's Mom, Phanie | Still in Chapter 1 |
