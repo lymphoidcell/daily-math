@@ -4,7 +4,7 @@ This document maintains a comprehensive list of all problems solved across all c
 
 ## All Solutions
 
-| Date | Problem Title | Category | Topic | Difficulty | Solver | Solution (Notion) | Solution (GitHub) |
+| Date | Problem Title | Category | Topic | Difficulty | Solver | Solution (Notion); *Requires request access* | Solution (GitHub) |
 |------|---------------|----------|-------|------------|--------|-------------------|-------------------|
 | 11 November 2025 | [Vector Equality in ℝⁿ](https://www.notion.so/Daily-Math-Problem-DAY-1-2a76760c955380c69e50c30eb2691973) | Machine Learning Math | Vectors in Rⁿ | Beginner (super easy) | Phanie | [Notion](https://www.notion.so/Daily-Math-Solution-DAY-1-2a86760c9553805ca0f0db366ec586e2?source=copy_link) | [PDF](https://github.com/lymphoidcell/daily-math/blob/main/Solutions/Phanie/DAY%201%20-%20Daily%20Math%20Solution.pdf) |
 
